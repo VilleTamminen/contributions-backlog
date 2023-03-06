@@ -1,6 +1,7 @@
 # contributions-backlog
-List of other repositories that I have contributed to
+List of other repositories that I have contributed to (outside my own repositories)
 
 Internship in Xamk Game Studios:
-https://github.com/JaniRuots/CopsNRobbersAR
-https://github.com/JaniRuots/CodingGame
+
+1. https://github.com/JaniRuots/CopsNRobbersAR
+2. https://github.com/JaniRuots/CodingGame
