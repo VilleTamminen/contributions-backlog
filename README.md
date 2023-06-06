@@ -1,5 +1,6 @@
 # contributions-backlog
 List of other repositories that I have contributed to (outside my own repositories)
+Portfolio in Wiki-page.
 
 Internship in Xamk Game Studios (NOT PUBLIC FOR OTHERS):
 
